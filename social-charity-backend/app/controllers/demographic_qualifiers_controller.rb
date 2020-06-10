@@ -1,0 +1,2 @@
+class DemographicQualifiersController < ApplicationController
+end

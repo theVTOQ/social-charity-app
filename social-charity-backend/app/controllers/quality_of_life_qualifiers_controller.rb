@@ -1,0 +1,2 @@
+class QualityOfLifeQualifiersController < ApplicationController
+end

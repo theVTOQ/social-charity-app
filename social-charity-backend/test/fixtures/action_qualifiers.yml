@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name_of_action: MyString
+  commitment_date_window_begin: MyString
+  commitment_date_window_end: MyString
+
+two:
+  name_of_action: MyString
+  commitment_date_window_begin: MyString
+  commitment_date_window_end: MyString
